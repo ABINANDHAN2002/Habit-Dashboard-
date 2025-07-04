@@ -15,11 +15,6 @@ A fully responsive and interactive Habit Tracker Dashboard built with **React.js
 
 ---
 
-## 📸 Screenshots
-
-> *(Optional)* Add your own screenshot here  
-> Example:
-> ![Habit Dashboard](./src/assets/dashboard.jpg)
 
 ---
 
