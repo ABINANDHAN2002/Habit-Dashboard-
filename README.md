@@ -57,8 +57,7 @@ habit_dashboard/
 ```
 Installation
 # Clone the repo
-git clone https://github.com/ABINANDHAN2002/Habit-Dashboard.git
-
+git clone https://github.com/ABINANDHAN2002/Habit-Dashboard-
 # Navigate into the project folder
 cd Habit-Dashboard
 
